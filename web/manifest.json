@@ -1,6 +1,6 @@
 {
-    "name": "produits_app",
-    "short_name": "produits_app",
+    "name": "produitsapp",
+    "short_name": "produitsapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

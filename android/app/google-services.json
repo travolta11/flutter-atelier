@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385915653881",
+    "project_id": "atelier-4-h-chalabi-iir5g3",
+    "storage_bucket": "atelier-4-h-chalabi-iir5g3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385915653881:android:67f4378276c307e441dc28",
+        "android_client_info": {
+          "package_name": "com.chalabi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARH9MKGJB8EALOllne9w2LdVDL9D4vCKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
