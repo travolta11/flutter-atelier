@@ -56,8 +56,7 @@ class _ProfileState extends State<Profile> {
             ),
             SizedBox(height: 20),
             Container(
-              decoration: BoxDecoration(
-                color: Colors.grey[200],
+              decoration: BoxDecoration(         
                 borderRadius: BorderRadius.circular(10),
                 boxShadow: [
                   BoxShadow(
@@ -76,6 +75,7 @@ class _ProfileState extends State<Profile> {
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 16,
+                     
                     ),
                   ),
                   SizedBox(height: 5),
